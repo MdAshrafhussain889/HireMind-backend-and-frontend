@@ -1,0 +1,16 @@
+# Environment files
+.env
+.env.local
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Backend
+hiremind_backend/venv/
+hiremind_backend/__pycache__/
+
+# Frontend
+hiremind_frontend/node_modules/
+hiremind_frontend/.next/
